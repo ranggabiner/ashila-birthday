@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0e68c;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background-color: #ffebcd;
+    border: 2px solid #ff69b4;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ff1493;
+}
+
+button {
+    background-color: #ff1493;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff69b4;
+}
+
+.hidden {
+    display: none;
+}
+
+#surpriseMessage {
+    margin-top: 20px;
+}
+
+#surpriseMessage img {
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #ff1493;
+}
+
+.heart {
+    color: red;
+}
